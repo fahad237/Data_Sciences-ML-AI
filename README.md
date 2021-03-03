@@ -1,2 +1,2 @@
 # Data_Sciences-ML-AI
-Learning Materia for Data Science Projects
+Learning Material for Data Science Projects
